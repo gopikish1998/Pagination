@@ -22,3 +22,10 @@ body{
   color: white;
   border-radius:50%;
 }
+@media (min-width:300px) and (max-width:600px){
+  .pagination{
+    justify-content:space-between;
+    margin:0;
+    
+  }
+}
